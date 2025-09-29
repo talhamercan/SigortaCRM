@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SigortaCRM",
+    "\\SigortaCRM\\Data",
+    "\\SigortaCRM\\Models",
+    "\\SigortaCRM\\SigortaCRM",
+    "\\SigortaCRM\\SigortaCRM\\Migrations",
+    "\\SigortaCRM\\SigortaCRM\\Models"
+  ],
+  "SelectedNode": "\\SigortaCRM\\SigortaCRM\\appsettings.json",
+  "PreviewInSolutionExplorer": false
+}
