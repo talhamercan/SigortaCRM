@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SigortaCRM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28225a9114389a7c6d913a9bce13f3c224bccb93")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0898b6cb264c0281d63cf0d295bd59693104abc5")]
 [assembly: System.Reflection.AssemblyProductAttribute("SigortaCRM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SigortaCRM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
