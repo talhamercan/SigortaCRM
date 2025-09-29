@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6udIYI6TEcw4gaC2jrx9tx0rYoWDq/xXogtYUNv7g24=",
+  "Source": "SigortaCRM",
+  "BasePath": "_content/SigortaCRM",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

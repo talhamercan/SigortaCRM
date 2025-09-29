@@ -1,0 +1,6 @@
+@SigortaCRM_HostAddress = http://localhost:5082
+
+GET {{SigortaCRM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
